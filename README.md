@@ -34,14 +34,13 @@
    - Ensure all required visuals and reports are included  
    - The slicers should be functional and interactive
 ## SAMPLE PICTURES 
-- STATES
-![image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20225610.png)
--SIZE
-![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20225705.png)
--ROLE TYPE 
-![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20225650.png)
--MAPPING
-![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20231330.png)
--DASHBOARD
-![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20231957.png)
-
+## STATES
+![Image](https://github.com/user-attachments/assets/f685e0d6-bb75-4c4a-8ca2-e6e324d7437d)
+## SIZE
+![Image](https://github.com/user-attachments/assets/6951564a-32b6-49c0-a9e1-3f0cc8d10590)
+## ROLE TYPE 
+![Image](https://github.com/user-attachments/assets/7b307b7a-5d81-434f-b27e-fbf7e1b5d27f)
+## MAPPING
+![Image](https://github.com/user-attachments/assets/652ce707-c55b-4641-a70e-603ec21f63f0)
+## DASHBOARD
+![Image](https://github.com/user-attachments/assets/5cccf1ae-b94d-4bf1-92f6-ace8b191bb11)
