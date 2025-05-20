@@ -35,13 +35,13 @@
    - The slicers should be functional and interactive
 ## SAMPLE PICTURES 
 - STATES
-![Image](Images/Screenshot 2025-03-15 225610.png)
+![image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20225610.png)
 -SIZE
-![Image](Images/Screenshot 2025-03-15 225650.png)
--ROLE TYPE
-![Image](Images/Screenshot 2025-03-15 225650.png)
+![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20225705.png)
+-ROLE TYPE 
+![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20225650.png)
 -MAPPING
-![Image](Images/Screenshot 2025-03-15 231330.png)
+![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20231330.png)
 -DASHBOARD
-![Image](Images/Screenshot 2025-03-15 231957.png)
+![Image](https://github.com/chan-edm/README/blob/2e8699c13ca4ab717211f78754c21ac8cf12325e/Images/Screenshot%202025-03-15%20231957.png)
 
