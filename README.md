@@ -45,4 +45,8 @@
 ## DASHBOARD
 ![Image](https://github.com/user-attachments/assets/5cccf1ae-b94d-4bf1-92f6-ace8b191bb11)
 
-[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
+ <a href="https://chan-edm.github.io/README/" class="btn">BACK TO PORTFOLIO</a>
+    <a href="https://chan-edm.github.io/Midterm-Lab-task-1//" class="btn">CONTINUE TO LEARN</a>
+  </div>
+</section>
+
