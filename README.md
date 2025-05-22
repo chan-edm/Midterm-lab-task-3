@@ -1,5 +1,5 @@
-## Midterm-Lab-Task-3: Creating PIVOT TABLE and DASHBOARD
-# Step by Step Process
+# Midterm-Lab-Task-3: Creating PIVOT TABLE and DASHBOARD
+## Step by Step Process
 
 # 1. Use the given data  
    - Open the Worksheet on Uncleaned DS Jobs and the Transform Tables:  
